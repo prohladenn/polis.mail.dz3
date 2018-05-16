@@ -1,0 +1,295 @@
+b708cdef C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V\Profiles\Валерий\Saves\save_1.sav
+14e3c6c3 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-27 19.50.05 Graphics.txt
+7982f1d6 C:\Users\HP-PC\Документы\Visual Studio 2017\Visualizers\attribcache140.bin
+3bd3735c C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Saves\single\auto\AutoSave_0080 г. н.э. 0200.Civ5Save
+f137ae2c C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Debug\source.obj.enc
+8b72f293 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Катализатор РВ.SC2Replay
+8ddb6f8e C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V — Tribes of the East\Profiles\Валерий\Saves\save_0.sav
+c96ade59 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Обучение Пустота – 1-й этап (3).SC2Replay
+5b35e654 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\x64\Debug\vc140.pdb
+fb8a1888 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Глубоководный риф РВ (2).SC2Replay
+0026060f C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Saves\single\auto\AutoSave_0060 г. до н.э. 0600.Civ5Save
+cf903844 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\ScreenShots\Civ5Screen0000.tga
+91a70f28 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Экспресс забвения.SC2Replay
+9f200c83 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-05 22.56.47 SystemInfo.txt
+fdf16878 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-23 19.47.12 NGDPTrace.txt
+a3ab940f C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Logs\system_init.log
+85790c3e C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\x64\Debug\vc140.idb
+f40d88cd C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-31 18.38.06 SystemInfo.txt
+40cd76ed C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\.vs\ConsoleApplication1\v14\.suo
+00e4b349 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Logs\achievements_debug.log
+4c8d7507 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V — Tribes of the East\Profiles\Валерий\Saves\save_4.sav
+811c9dc5 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Source.h
+78f12340 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.vshost.exe.manifest
+a3e7aa8d C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Обучение Пустота – 3-й этап (4).SC2Replay
+45f74f8d C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Saves\single\auto\AutoSave_0070 г. до н.э. 0200.Civ5Save
+4d633572 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-31 18.38.11 Graphics.txt
+db6fc276 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\Properties\AssemblyInfo.cs
+6ae7154d C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\THanson01.SC2Bank
+bbd836ab C:\Users\HP-PC\Документы\StarCraft II\Variables.txt
+811c9dc5 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+488ee0f6 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Эпидемия (2).SC2Save
+f414cbeb C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+47a0aafb C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Семена Айура.SC2Replay
+e726e615 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V\Profiles\global.cfg
+d3c8423a C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Кислотный завод РВ.SC2Replay
+f73ee88b C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Зеленые угодья (3).SC2Replay
+00331a7f C:\Users\HP-PC\Документы\Lightshot\Screenshot_3.png
+d41db201 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Шепот судьбы (1).SC2Save
+c2e05862 C:\Users\HP-PC\Документы\Lightshot\Screenshot_7.png
+5b5fee11 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\CampaignPS.SC2Bank
+55be2ad6 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V\Profiles\Валерий\Saves\save_0.sav
+f4f5e67a C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-02-05 22.37.12 SystemInfo.txt
+c570dc1f C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V\Hammers of Fate\Profiles\global_a1.cfg
+298895c5 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Страшная правда (1).SC2Save
+ba9f58d5 C:\Users\HP-PC\Документы\Мои фигуры\desktop.ini
+1843fcee C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1.VC.db
+35790f10 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Debug\ConsoleA.79043E32.tlog\link.write.1.tlog
+73844e73 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V\Profiles\Валерий\Saves\Campaign.sav
+6bdd1d58 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.79043E32.tlog\CL.write.1.tlog
+f2c07da8 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\TCampaign.SC2Bank
+301fde4e C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\TZeratul02.SC2Bank
+fdf16878 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-06 01.22.27 NGDPTrace.txt
+c5ef3d12 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+88a709ce C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Civ5UserHistoryDatabase.db
+0620b2df C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-03 18.00.05 SystemInfo.txt
+46ca52e7 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.ilk
+0ef5f2f9 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Logs\APP.log
+c204ee0c C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj.filters
+c286c2cf C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-30 15.58.37 SystemInfo.txt
+256d0440 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Неоновая площадь РВ (2).SC2Replay
+49c960be C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-Expansion - Gods and Kings.db
+d03c43ca C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\TTosh01.SC2Bank
+9c5bbed5 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Большое ограбление поезда (3).SC2Save
+6abade7b C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.79043E32.tlog\link.read.1.tlog
+3ca725e8 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-Polynesia.db
+2732fac5 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-25 02.14.51 Graphics.txt
+3614c76e C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Logs\net_message_debug.log
+53451e02 C:\Users\HP-PC\Документы\Overwatch\Logs\Overwatch.log
+8ec596f9 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V\Profiles\Валерий\Saves\save_3.sav
+773cfe83 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Logs\xml-perf.log
+e8612418 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-16 01.51.02 SystemInfo.txt
+7e21e4b3 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+5596a5e6 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\Variables.txt
+4ffe276e C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-24 13.52.41 SystemInfo.txt
+a52f91b3 C:\Users\HP-PC\Документы\Lightshot\Screenshot_6.png
+7fef78bc C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Civ5CoreDatabase.db
+4f75a173 C:\Users\HP-PC\Документы\Lightshot\Screenshot_1.png
+f5a75000 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-03 01.24.04 Graphics.txt
+d48aaa2e C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-Expansion - Brave New World.db
+811c9dc5 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Debug\ConsoleA.79043E32.tlog\unsuccessfulbuild
+811c9dc5 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-DLC_SP_Maps.db
+95972e7f D:\Old files\Games\Hearthstone\Data\Win\win
+8661dae9 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-Babylon.db
+769f0d20 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Civ5SavedGameDatabase.db
+b5120776 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Saves\single\auto\AutoSave_Initial_0000 г. до н.э. 4000.Civ5Save
+843d9abc C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-15 02.42.11 Graphics.txt
+475d91e7 C:\Users\HP-PC\Документы\Lightshot\Screenshot_2.png
+fdf16878 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-31 18.41.52 NGDPTrace.txt
+25e7a1dd C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V\Profiles\Валерий\user.cfg
+7d7f2499 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Обучение Пустота – 2-й этап (3).SC2Replay
+811c9dc5 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-DLC_SP_Maps_3.db
+811c9dc5 C:\testfolder\1\Новая папка\Новая папка\Новая папка\Новая папка\ISearchThisFile.bmp
+cad25d0c C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj
+977d258e C:\Users\HP-PC\Документы\StarCraft II\ExecuteInfo.txt
+70882175 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb
+f0a84e0e C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Logs\modding.log
+2dbcba13 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1.sln
+6c28bb0c C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb
+9468c806 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V — Tribes of the East\Profiles\Валерий\Saves\save_1.sav
+15372640 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\UserSettings.ini
+df169c65 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.79043E32.tlog\CL.read.1.tlog
+e79cbd37 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-30 02.55.07 SystemInfo.txt
+2d7da072 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Обучение Пустота – 2-й этап (2).SC2Replay
+a6c52e52 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V — Tribes of the East\Profiles\HallOfFame.sav
+1574b596 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-30 03.37.47 Graphics.txt
+44f8eb14 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Обучение Пустота – 2-й этап.SC2Replay
+e726a0a1 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Debug\ConsoleA.79043E32.tlog\CL.command.1.tlog
+9091c270 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Civ5DebugDatabase.db
+92ce48b5 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Большое ограбление поезда – победа.SC2Save
+c746fec0 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V — Tribes of the East\Profiles\Валерий\user_a2.cfg
+412025e4 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-26 22.36.47 Graphics.txt
+b1d6c0b6 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-05 22.56.54 Graphics.txt
+6a2ae366 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\THorner01.SC2Bank
+76fa1d12 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Путь на Айур РВ.SC2Replay
+b77faf91 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-24 13.52.45 Graphics.txt
+b6c48e8c C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V\Hammers of Fate\Profiles\Игрок\input_a1.cfg
+d1e0c436 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\ScreenShots\Civ5Screen0001.tga
+35790f10 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Debug\ConsoleA.79043E32.tlog\link.read.1.tlog
+556f6964 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\ModUserData\df3333a4-44be-4fc3-9143-21706ff451d5-1.db
+5ca7412e C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-26 22.36.43 SystemInfo.txt
+c4b88f5f C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-25 23.00.37 SystemInfo.txt
+ca4150ad C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Debug\vc140.pdb
+4a9a7f89 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\App.config
+adf67362 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-04 20.28.59 Graphics.txt
+9d9f15f5 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Logs\stopwatch.log
+00ff4142 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-Denmark.db
+8419b888 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Saves\single\auto\prev\0ldAutoSave_Initial_0000 г. до н.э. 4000.Civ5Save
+fc6dc898 C:\Users\HP-PC\Документы\Lightshot\Screenshot_5.png
+e02e60bc C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\GraphicsSettingsDX9.ini
+6161ca53 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Хватай и беги (1).SC2Save
+fdf16878 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-04 23.53.22 NGDPTrace.txt
+fd0f5db2 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-25 02.14.45 SystemInfo.txt
+cc9ead99 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-03 18.00.14 Graphics.txt
+518360a2 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2.sln
+0c733ef7 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Песочница дьявола – победа.SC2Save
+c93071a3 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-27 16.35.50 SystemInfo.txt
+4a9a7f89 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.vshost.exe.config
+73e8371b C:\Users\HP-PC\Документы\desktop.ini
+8f4ad207 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Страшная правда – победа.SC2Save
+99d36a87 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Replays\Ганди_0464 г. н.э. 2032-I_0.Civ5Replay
+84c8f77a C:\Users\HP-PC\Документы\Visual Studio 2015\Settings\CurrentSettings-2017-02-06.vssettings
+51d7b69a C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Зеленые угодья.SC2Replay
+20468e76 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\SC2Tutorial.SC2Bank
+5fde864d C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Глубоководный риф РВ (3).SC2Replay
+d0c94705 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+04b0942a C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Неоновая площадь РВ.SC2Replay
+a0ab8f23 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-27 16.35.53 Graphics.txt
+fb983329 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\TRaynor03.SC2Bank
+4db03f07 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-04 20.07.38 Graphics.txt
+811c9dc5 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+70c915ce C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Обучение Пустота – 1-й этап.SC2Replay
+bd8507e7 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Хватай и беги (2).SC2Save
+b4df8e35 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.79043E32.tlog\link.command.1.tlog
+811c9dc5 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+0467c5b7 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\.vs\ConsoleApplication2\v14\.suo
+d7b2d333 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V\Profiles\Валерий\Saves\save_4.sav
+57a3f26f C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Большие раскопки (2).SC2Save
+487a419a C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\config.ini
+be1360b7 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-27 19.50.02 SystemInfo.txt
+cf31ec1e C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Debug\ConsoleA.79043E32.tlog\CL.write.1.tlog
+2c508164 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V\Profiles\Валерий\Saves\save_2.sav
+30c6eaca C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+98b12190 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.79043E32.tlog\link.write.1.tlog
+9086a3e9 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-Civilization 5 Complete.db
+b4fc1f66 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-02-05 22.37.17 Graphics.txt
+b779f4cb C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\x64\Debug\Source.obj
+eb748ded C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-Spain and Inca.db
+1ce1b250 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-25 15.32.25 SystemInfo.txt
+b4e88ad0 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.csproj
+784b20ed C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Logs\Database.log
+a286dec9 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Logs\Localization.log
+17271584 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-25 17.32.12 Graphics.txt
+a7229208 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-30 15.58.38 NGDPTrace.txt
+f5098b41 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.79043E32.tlog\CL.command.1.tlog
+891cffa6 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-03 01.24.01 SystemInfo.txt
+811c9dc5 C:\Users\HP-PC\Документы\Мои фигуры\Избранное.vssx
+ae101699 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Logs\init_host.log
+5be4792e C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-30 02.55.11 Graphics.txt
+cafb6e02 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Blackpink РВ.SC2Replay
+7b2e9a8b C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Saves\single\auto\AutoSave_0000 г. до н.э. 4000.Civ5Save
+439019d8 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-31 18.41.52 SystemInfo.txt
+2a42abbf C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Эпидемия (1).SC2Save
+ba46c5d4 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-04 20.07.34 SystemInfo.txt
+30c6eaca C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+e6e17dd2 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleA.79043E32.tlog\ConsoleApplication1.lastbuildstate
+53d93ff0 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-BaseGame.db
+8cedd714 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Saves\single\quick\QuickSave.Civ5Save
+6359536e C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Source.cpp
+db1c6d65 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.vshost.exe
+45ad437b C:\testfolder\input.txt
+28407b68 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Civ5ModsDatabase.db
+2a4f4cfd C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Logs\Lua.log
+1bb61d0c C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-Upgrade 1.db
+0429f6bb C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-15 02.41.55 SystemInfo.txt
+8d3e7395 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Зеленые угодья (2).SC2Replay
+3f640b61 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Debug\vc140.idb
+71b6cd46 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Большие раскопки (1).SC2Save
+591d0464 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Песочница дьявола (1).SC2Save
+512146c3 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-30 03.37.42 SystemInfo.txt
+bbc1e9fd C:\Users\HP-PC\Документы\Visual Studio 2015\Settings\CurrentSettings.vssettings
+5582e1ff C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Шепот судьбы (4).SC2Save
+4f305033 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Эпидемия (3).SC2Save
+67d6e7c0 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Обучение Пустота – 1-й этап (2).SC2Replay
+c7ef5165 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-16 01.51.13 Graphics.txt
+3820aeb3 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\ModdedSaves\single\auto\AutoSave_Initial_0000 г. н.э. 0376-I.Civ5Save
+7ef8c083 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Большое ограбление поезда (2).SC2Save
+eef42efb C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\TZeratul01.SC2Bank
+74429378 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-12 00.12.41 Graphics.txt
+4461aa49 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\x64\Debug\source.obj.enc
+57f5db79 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V — Tribes of the East\Profiles\Валерий\input_a2.cfg
+ea0b4452 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-23 00.40.35 SystemInfo.txt
+3a1a11e9 C:\Users\HP-PC\Документы\pim_installmgr.log
+60ff0b1b C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-Korea.db
+e94ed206 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-30 15.58.43 Graphics.txt
+811c9dc5 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-Tablet Data 1.db
+8b9830b9 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\Program.cs
+b802182f C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V — Tribes of the East\Profiles\Валерий\Saves\save_3.sav
+5b926a81 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\TRaynor02.SC2Bank
+d7a47a3a C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-23 17.55.59 SystemInfo.txt
+35790f10 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Debug\ConsoleA.79043E32.tlog\link.command.1.tlog
+084c8a2f C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V\Profiles\Валерий\input.cfg
+64dc834f C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Обучение Пустота – 3-й этап (3).SC2Replay
+376dc7cd C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-23 00.40.55 Graphics.txt
+54ccf52c C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Страшная правда (2).SC2Save
+ad2fa5c0 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-25 15.32.30 Graphics.txt
+d639fbcd C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Хватай и беги – победа.SC2Save
+11a68779 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Saves\single\auto\AutoSave_0100 г. н.э. 0800.Civ5Save
+ecbf2594 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+e4c9ade7 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Логово предателя.SC2Replay
+754476c7 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Обучение Пустота – 2-й этап (4).SC2Replay
+8fda00e6 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-25 17.32.09 SystemInfo.txt
+01460414 C:\Users\HP-PC\Документы\Мои фигуры\_private\folder.ico
+a1f3e19b C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Debug\Source.obj
+6374f73b C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Blackpink РВ (2).SC2Replay
+99b20ab6 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Debug\ConsoleA.79043E32.tlog\CL.read.1.tlog
+2229b5a6 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Шепот судьбы – победа.SC2Save
+f0bf4b7d C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V\Hammers of Fate\Profiles\Игрок\user_a1.cfg
+1451cd8d C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Debug\ConsoleApplication1.log
+57073ba5 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.log
+396ac467 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Пришествие Пустоты.SC2Replay
+a846ed0a C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Обучение Пустота – 3-й этап.SC2Replay
+7efb960f C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-31 18.41.54 Graphics.txt
+04871067 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\TRaynor01.SC2Bank
+4a9a7f89 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+b0f676db C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-Ancient Wonders.db
+5900f0dc C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-16 18.03.19 SystemInfo.txt
+060c5dcb C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Затопленный город.SC2Replay
+e517b75f C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.FileListAbsolute.txt
+f0394d25 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Шепот судьбы (3).SC2Save
+621b0216 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Путь на Айур РВ (2).SC2Replay
+b0852a38 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V — Tribes of the East\Profiles\Валерий\Saves\save_2.sav
+fa6f8575 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Шепот судьбы (2).SC2Save
+811c9dc5 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-DLC_SP_Maps_2.db
+a9217da5 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\TTychus01.SC2Bank
+ecbf2594 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+744714d2 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Большое ограбление поезда (1).SC2Save
+18be7868 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Logs\xml.log
+1e92cc22 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\THanson02.SC2Bank
+db594b29 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-12 00.12.36 SystemInfo.txt
+121d23cc C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.ilk
+724cb382 C:\Users\HP-PC\Документы\Overwatch\Settings\Settings_v0.ini
+84c5bfed C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-16 18.03.23 Graphics.txt
+094979cd C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-25 23.00.43 Graphics.txt
+e726e615 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V — Tribes of the East\Profiles\global_a2.cfg
+d793d450 C:\Users\HP-PC\Документы\My Games\Heroes of Might and Magic V\Profiles\HallOfFame.sav
+8f4ad207 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\LibertyCampaignSave.SC2Save
+3c54d0dc C:\Users\HP-PC\Документы\Lightshot\Screenshot_4.png
+20f2fbc9 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Святилища Лизул.SC2Replay
+e0741f2d C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Глубоководный риф РВ.SC2Replay
+7b77a683 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\GraphicsSettingsDX11.ini
+2d9bb31a C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Песочница дьявола (2).SC2Save
+846b5037 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Затопленный город (2).SC2Replay
+d55312b2 C:\Users\HP-PC\Документы\2,02.xlsx
+a47055a0 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-Merged.db
+6563bee7 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Saves\single\auto\AutoSave_0090 г. н.э. 0500.Civ5Save
+2fa2b802 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Большие раскопки – победа.SC2Save
+51233704 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Replays\HallOfFameDatabase.db
+08ff7908 C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2017-12-23 17.56.03 Graphics.txt
+eb935ed8 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Saves\single\Ганди_0274 г. н.э. 1808 ночь кр.Civ5Save
+85818988 C:\Users\HP-PC\Документы\StarCraft II\prohladenn_573@2.lnk
+f428399a C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Saves\Unsaved\Campaign\Эпидемия – победа.SC2Save
+6338f1bd C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\Saves\single\Играем с Пашей.Civ5Save
+c1725dfe C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Banks\TTychus02.SC2Bank
+9bb7ed03 C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\cache\Localization-Mongolia.db
+d84173fa C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Битва на променаде РВ.SC2Replay
+4a184bcd C:\Users\HP-PC\Документы\My Games\Sid Meier's Civilization 5\ScreenShots\Civ5Screen0002.tga
+c019b19f C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Логово предателя (2).SC2Replay
+a8299bff C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Неоновая площадь РВ (3).SC2Replay
+f577f8b3 C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\CampaignProgress.xml
+c750bab3 C:\testfolder\1\inputIn1.txt
+932b8c3c C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Долина Серого Камня.SC2Replay
+cad78d0f C:\Users\HP-PC\Документы\StarCraft II\Accounts\437176713\2-S2-2-2106621\Replays\Multiplayer\Обучение Пустота – 3-й этап (2).SC2Replay
+1403805b C:\Users\HP-PC\Документы\КовшовВМ.pptx
+429a085d C:\Users\HP-PC\Документы\StarCraft II\GameLogs\2018-01-04 20.28.56 SystemInfo.txt
+3ea4c621 C:\Users\HP-PC\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\Debug\ConsoleA.79043E32.tlog\ConsoleApplication1.lastbuildstate
