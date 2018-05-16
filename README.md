@@ -22,15 +22,23 @@ java RecursiveHash <входной файл> <выходной файл>
 Директории нужно обходить рекурсивно
 
 Пример:
+
 Входной файл:
+
 1 /home/ilya.dronov/polis/homework6/
+
 2 /home/ilya.dronov/polis/homework6/test.txt
+
 3 /home/ilya.dronov/polis/homework6/samples
+
 4 /home/ilya.dronov/polis/homework6/samples/1.txt
  
 Выходной файл:
+
 1 050c5d2e /home/ilya.dronov/polis/homework6/sample.txt
+
 2 81ee2b55 /home/ilya.dronov/polis/homework6/test.txt
+
 3 00000000 /home/ilya.dronov/polis/homework6/samples/2.txt
 
 Критерии:
